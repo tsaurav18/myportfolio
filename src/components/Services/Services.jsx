@@ -27,9 +27,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+        I'm making new projects using new technology.
           <br />
-          ispum is simpley dummy text of printing
+         Always curious about new tech to grow my skills
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
@@ -47,7 +47,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Design"}
-            detail={"Figma, Sketch, Photoshop, Adobe Illustrator, Adobe xd"}
+            detail={"Figma, Sketch"}
           />
         </motion.div>
         {/* second card */}
@@ -59,7 +59,7 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={"Html, Css, JavaScript, React, Nodejs, Express"}
+            detail={"Html, Css, JavaScript, React, Nodejs, Express, Nextjs, Django, Python, C, Java, PHP, Web 3.0"}
           />
         </motion.div>
         {/* 3rd */}
@@ -70,9 +70,9 @@ const Services = () => {
         >
           <Card
             emoji={Humble}
-            heading={"UI/UX"}
+            heading={"App Development"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "Full stack React Native"
             }
             color="rgba(252, 166, 31, 0.45)"
           />
